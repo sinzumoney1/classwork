@@ -1,1 +1,1 @@
-i am gifted
+vscode tutorial
