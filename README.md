@@ -1,1 +1,1 @@
-vscode tut
+vscode tutorial
